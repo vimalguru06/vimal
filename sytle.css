@@ -2,8 +2,9 @@
     background-image: url(https://media.istockphoto.com/id/626224944/photo/two-business-people-discussing-business-strategy-using-digital-tablet.jpg?s=612x612&w=0&k=20&c=b7bk7uNRZLpl9OW-u5231c_RVYF0IqT_bbcFKuv0EIg=);
     background-repeat: no-repeat;
     background-size: cover ;
-    padding: 100px;
-    height: 450px;
+    background-position: center;
+    height: 100%;
+    padding: 50px 0 200px 30px;
 }
 .jk{
     background-image: linear-gradient(rgba(243, 239, 239, 0.6),rgba(231, 226, 226, 0.7));
